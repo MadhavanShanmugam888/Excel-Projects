@@ -70,4 +70,9 @@ Use filters/slicers to explore insights
 
 This project showcases the power of Excel in transforming raw data into actionable insights through structured analysis and visualization.
 
-MADHAVAN | Data Analyst
+
+## 👤 Author
+
+**Madhavan Shanmugam**
+
+*Data Analyst | Python | Power BI | SQL | Advanced Excel*
