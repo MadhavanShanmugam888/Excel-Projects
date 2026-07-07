@@ -1,1 +1,117 @@
+# 🚦 Road Accident Analysis Dashboard
 
+## 📌 Project Overview
+
+This project analyzes road accident data to identify patterns, trends, and key factors contributing to accidents. The dashboard provides interactive visualizations that help stakeholders understand accident severity, casualty distribution, vehicle involvement, location analysis, and time-based trends.
+
+The project demonstrates practical Data Analytics skills using Excel and dashboard development techniques.
+
+---
+
+## 🎯 Objectives
+
+- Analyze road accident data.
+- Identify accident trends and patterns.
+- Compare casualties by vehicle type.
+- Understand accident severity distribution.
+- Analyze accidents by road type, location, and weather conditions.
+- Build an interactive dashboard for decision-making.
+
+---
+
+## 🛠️ Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Data Cleaning
+- Dashboard Design
+
+---
+
+## 📊 Dashboard Features
+
+- Total Casualties
+- Total Accidents
+- Fatal Casualties
+- Serious Casualties
+- Slight Casualties
+- Casualties by Vehicle Type
+- Monthly Accident Trend
+- Road Type Analysis
+- Urban vs Rural Comparison
+- Day vs Night Analysis
+- Interactive Filters (Slicers)
+
+---
+
+## 📂 Project Files
+
+GitHub has file size limitations, so the complete project files are available in Google Drive.
+
+📁 **Download Project Files**
+
+👉 **Google Drive Link:**  
+**https://drive.google.com/your-link-here**
+
+*(Replace this with your actual Google Drive link.)*
+
+---
+
+## 📸 Dashboard Preview
+
+You can upload a screenshot of your dashboard here.
+
+Example:
+
+![Dashboard Preview](dashboard.png)
+
+---
+
+## 🚀 How to Use
+
+1. Download the project files from the Google Drive link.
+2. Open the Excel workbook.
+3. Enable editing if prompted.
+4. Use the slicers to interact with the dashboard.
+5. Explore different accident insights.
+
+---
+
+## 📈 Key Insights
+
+- Majority of casualties are classified as Slight.
+- Cars contribute to the highest number of casualties.
+- Urban areas record more accidents than rural areas.
+- Road type significantly affects accident frequency.
+- Monthly trends help identify seasonal accident patterns.
+
+---
+
+## 💡 Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Dashboard Design
+- Data Visualization
+- Excel Functions
+- Pivot Tables
+- KPI Reporting
+- Business Insights
+
+---
+
+## 👨‍💻 Author
+
+**Madhavan**
+
+Aspiring Data Analyst
+
+- LinkedIn: https://www.linkedin.com/in/your-profile
+- GitHub: https://github.com/yourusername
+
+---
+
+⭐ If you found this project useful, consider giving it a Star!
